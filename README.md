@@ -1,5 +1,4 @@
 # RPlat2D
-#### Video Demo:  <URL https://youtu.be/KREsNAPVypM>
 #### Description:
 RPlat2D is a simple 2d platformer made in unity i made this project to
 teach myself game developement in unity and i didnt make a very complex project for cs50 
